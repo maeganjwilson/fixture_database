@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/maeganjwilson/fixture_database/issues"
   },
-  "homepage": "https://github.com/maeganjwilson/fixture_database#readme"
+  "homepage": "https://github.com/maeganjwilson/fixture_database#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  }
 }
