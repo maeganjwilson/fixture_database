@@ -1,0 +1,66 @@
+{
+  "functions": {
+    "1": { "name": "Position", "features": ["Pan", "Tilt", "Position Time"] },
+    "2": {
+      "name": "Color",
+      "features": [
+        "Color Mix Mode",
+        "Cyan",
+        "Magenta",
+        "Yellow",
+        "CTO",
+        "Color Wheel Mode",
+        "Color Wheel"
+      ]
+    },
+    "3": {
+      "name": "Gobo 1",
+      "features": ["Gobo Wheel Mode", "Gobo", "Gobo Mode", "Gobo Rotate"]
+    },
+    "4": {
+      "name": "Gobo 2",
+      "features": ["Gobo 2 Wheel Mode", "Gobo 2"]
+    },
+    "5": {
+      "name": "Animation Wheel",
+      "features": ["Animation Wheel", "Animation Wheel Rotate"]
+    },
+    "6": {
+      "name": "Prism",
+      "features": ["Prism", "Prism Rotate"]
+    },
+    "7": {
+      "name": "Frost",
+      "features": ["Frost"]
+    },
+    "8": {
+      "name": "Focus",
+      "feature": ["Focus", "Auto Focus"]
+    },
+    "9": {
+      "name": "Zoom",
+      "feature": ["Zoom"]
+    },
+    "10": {
+      "name": "Iris",
+      "feature": ["Iris"]
+    },
+    "11": {
+      "name": "Strobe",
+      "feature": ["Strobe Mode", "Strobe Rate"]
+    },
+    "12": {
+      "name": "Intensity",
+      "feature": ["Intensity"]
+    },
+    "13": {
+      "name": "Macro",
+      "amount": 64,
+      "feature": ["Macro", "Macro Rate", "Macro Cross Fade Rate"]
+    },
+    "14": {
+      "name": "Fixture Control",
+      "feature": ["Control"]
+    }
+  }
+}

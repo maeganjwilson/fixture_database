@@ -1,0 +1,23 @@
+{
+  "name": "fixture_database",
+  "version": "1.0.0",
+  "description": "Fixture Database API",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maeganjwilson/fixture_database.git"
+  },
+  "keywords": [
+    "lighting",
+    "fixtures"
+  ],
+  "author": "Maegan Wilson <maegan@maeganwilson.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maeganjwilson/fixture_database/issues"
+  },
+  "homepage": "https://github.com/maeganjwilson/fixture_database#readme"
+}

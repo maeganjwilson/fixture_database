@@ -1,0 +1,44 @@
+{
+  "slots": {
+    "0": {
+      "type": "Color",
+      "names": [
+        "Open",
+        "Red",
+        "Blue",
+        "Green",
+        "Yellow",
+        "Orange",
+        "Magenta",
+        "Dark Blue"
+      ]
+    },
+    "1": {
+      "type": "Gobo",
+      "names": [
+        "Open",
+        "Strikes",
+        "Triangle",
+        "Woven",
+        "Crosshatch",
+        "Techwedge",
+        "Shower",
+        "Seashells",
+        "Crescents",
+        "Abstract",
+        "Fracture",
+        "Verdure",
+        "Shattered",
+        "Tunnel"
+      ]
+    },
+    "2": {
+      "type": "Animation Wheels",
+      "names": ["Animation Wheel"]
+    },
+    "3": {
+      "type": "Prism",
+      "names": ["3 Facet"]
+    }
+  }
+}
